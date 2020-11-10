@@ -97,7 +97,7 @@ table {
 /* 1. Generic styles ................... */
 /* ------------------------------------- */
 body {
-  background: #20232D;
+  background: #d5d5d5;
   font-family: "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   color: #FFFFFF;
   -webkit-font-smoothing: antialiased;
@@ -307,7 +307,7 @@ sup {
 #loading {
   width: 100vw;
   height: 100vh;
-  background: #20232D;
+  background: #d5d5d5;
   position: fixed;
   z-index: 999;
 }
@@ -646,7 +646,7 @@ sup {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #20232D;
+  background: #d5d5d5;
 }
 
 .Wallop-list {
@@ -1044,7 +1044,7 @@ sup {
   width: 100%;
   display: block;
   position: relative;
-  background: #20232D;
+  background: #d5d5d5;
 }
 .info-part .info-content .photo-line figure a.box-picture img {
   opacity: 0.6;
@@ -1088,7 +1088,7 @@ sup {
   font-size: 0.8em;
 }
 .info-part .info-content .photo-line figure a.box-picture:hover {
-  background: #20232D;
+  background: #d5d5d5;
 }
 .info-part .info-content .photo-line figure a.box-picture:hover img {
   opacity: 1;
@@ -1397,7 +1397,7 @@ sup {
 footer {
   position: relative;
   padding: 30px 45px;
-  background: #20232D;
+  background: #d5d5d5;
   overflow: hidden;
 }
 footer .copyright {
@@ -1879,7 +1879,7 @@ footer .scroll-button:hover i {
 
 /* Photo gallery */
 .pswp__bg {
-  background: #20232D;
+  background: #d5d5d5;
 }
 
 .pswp__caption h4 {
